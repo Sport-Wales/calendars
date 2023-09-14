@@ -5,12 +5,27 @@ document.addEventListener('DOMContentLoaded', function() {
       initialView: 'dayGridMonth',
       events: [
           {
-              title: 'Event 1',
-              start: '2023-09-15',
+              title: 'Welsh Gymnastics - Main Arena',
+              start: '2023-09-10',
           },
           {
-              title: 'Event 2',
-              start: '2023-09-20',
+              title: 'Welsh Boxing - Main Arena',
+              start: '2023-09-15',
+              end: '2023-09-17'
+          },
+          {
+            title: 'Squash Wales - National Squash Centre',
+            start: '2023-09-22',
+            end: '2023-09-24'
+          },
+          {
+            title: 'Welsh Gymnastics - Main Arena',
+            start: '2023-09-23',
+            end: '2023-09-24'
+          },
+          {
+            title: 'Welsh Judo Association',
+            start: '2023-09-30',
           },
       ],
   });
