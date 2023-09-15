@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Sport Wales | Calendars </title>
+        <title>Sport Wales | Calendars</title>
         <link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.9.0/main.min.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
@@ -29,20 +29,27 @@
         <meta name="theme-color" content="#ffffff">
     </head>
     <body>
-        <nav class="navbar navbar-light bg-light" id="navbar">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container">
-                <a class="navbar-brand" href="https://sport.wales">
-                    <img src="https://github.com/Sport-Wales/calendars/blob/main/assets/img/sw_logo.png" width="150" alt="">
-                </a>
-                <span class="navbar-brand mb-0 h1 text-white">Sport Wales Calendar</span>
+                <img src="assets/img/sw_logo.png" width="150" alt="">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link text-white active" href="#">Centre Events <span class="sr-only">(current)</span></a>
+                        <a class="nav-item nav-link text-white" href="belonging.html">Belonging</a>
+                    </div>
+                </div>
             </div>
+            
         </nav>
         <div class="container mt-5 mb-5">
-            <h2 class="mb-5">Events at the National Centre:</h2>
+            <h2 class="mb-5">Events at the National Centre</h2>
             <div id="calendar"></div>
             <p class="mt-2">Please contact the organiser for event timings, ticket prices and event cancellations.</p>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.9.0/main.min.js"></script>
-        <script src="assets/js/main.js"></script>
+        <script src="assets/js/centre-events.js"></script>
     </body>
 </html>
