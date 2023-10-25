@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: 'Welsh Judo Association',
             start: '2023-09-30',
           },
-          // Add the new events here
+
           {
               title: 'Table Tennis Wales - Main Arena',
               start: '2023-10-07',
