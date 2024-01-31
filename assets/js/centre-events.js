@@ -330,11 +330,6 @@ document.addEventListener('DOMContentLoaded', function() {
           }
       ],
       eventTextColor: '#000'
-      // eventSources: [
-      //   {
-      //     url: events.json,
-      //   }
-      // ]
   });
 
   calendar.render();
