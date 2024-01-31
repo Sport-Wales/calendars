@@ -1,245 +1,309 @@
-[
+{
+    "colors": {
+      "disabilitySportWalesCol": "#bff2ce",
+      "danceCol": "#fadaca",
+      "racquetSportsCol": "#E3826F",
+      "gymnasticsCol": "#E4A9A4",
+      "ballgamesCol": "#EFBA97",
+      "educationalCol": "#f1e9bb",
+      "combatSportsCol": "#c7c8e7",
+      "waterSportsCol": "#b0f5f5"
+    },
+    "events": [
     {
-        "title": "Welsh Gymnastics - Main Arena",
-        "start": "2023-09-10"
+        "title": "Welsh gymnastics - Main Arena",
+        "start": "2023-09-10",
+        "color": "gymnasticsCol"
     },
     {
         "title": "Welsh Boxing - Main Arena",
         "start": "2023-09-15",
-        "end": "2023-09-17"
+        "end": "2023-09-17",
+        "color": "combatSportsCol"
     },
     {
         "title": "Squash Wales - National Squash Centre",
         "start": "2023-09-22",
-        "end": "2023-09-24"
+        "end": "2023-09-24",
+        "color": "racquetSportsCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2023-09-23",
-        "end": "2023-09-24"
+        "end": "2023-09-24",
+        "color": "gymnasticsCol"
     },
     {
         "title": "Welsh Judo Association",
-        "start": "2023-09-30"
+        "start": "2023-09-30",
+        "color": "combatSportsCol"
     },
+
     {
         "title": "Table Tennis Wales - Main Arena",
         "start": "2023-10-07",
-        "end": "2023-10-08"
+        "end": "2023-10-08",
+        "color": "racquetSportsCol"
     },
     {
         "title": "Welsh Boxing - Main Arena",
         "start": "2023-10-13",
-        "end": "2023-10-15"
+        "end": "2023-10-15",
+        "color": "combatSportsCol"
     },
     {
         "title": "Squash Wales - National Squash Centre",
         "start": "2023-10-13",
-        "end": "2023-10-15"
+        "end": "2023-10-15",
+        "color": "racquetSportsCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2023-10-21",
-        "end": "2023-10-22"
+        "end": "2023-10-22",
+        "color": "gymnasticsCol"
     },
     {
         "title": "Welsh Judo Association",
         "start": "2023-10-28",
-        "end": "2023-10-29"
+        "end": "2023-10-29",
+        "color": "combatSportsCol"
     },
     {
         "title": "Welsh Target Shooting Federation - Main Arena & Jubilee Hall",
         "start": "2023-11-02",
-        "end": "2023-11-05"
+        "end": "2023-11-05",
+        "color": "combatSportsCol"
     },
     {
         "title": "Welsh Fencing Association - Main Arena & Jubilee Hall",
         "start": "2023-11-10",
-        "end": "2023-11-12"
+        "end": "2023-11-12",
+        "color": "combatSportsCol"
     },
     {
         "title": "Welsh Judo Association - National Judo Centre",
-        "start": "2023-11-11"
+        "start": "2023-11-11",
+        "color": "combatSportsCol"
     },
     {
         "title": "Colleges Wales Sport - Main Arena",
-        "start": "2023-11-14"
+        "start": "2023-11-14",
+        "color": "educationalCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2023-11-18",
-        "end": "2023-11-19"
+        "end": "2023-11-19",
+        "color": "gymnasticsCol"
     },
     {
         "title": "Urdd - Main Arena",
-        "start": "2023-11-23"
+        "start": "2023-11-23",
+        "color": "educationalCol"
     },
     {
         "title": "Welsh Judo Association - Main Arena",
-        "start": "2023-11-25"
+        "start": "2023-11-25",
+        "color": "combatSportsCol"
     },
     {
         "title": "Disability Sport Wales - Main Arena",
-        "start": "2023-11-26"
+        "start": "2023-11-26",
+        "color": "disabilitySportWalesCol"
     },
     {
         "title": "Badminton Wales - Main Arena & Jubilee Hall",
         "start": "2023-11-27",
-        "end": "2023-12-02"
+        "end": "2023-12-02",
+        "color": "racquetSportsCol"
     },
+
     {
         "title": "Urdd - Main Arena",
         "start": "2023-12-05",
-        "end": "2023-12-05"
+        "end": "2023-12-05",
+        "color": "educationalCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2023-12-09",
-        "end": "2023-12-10"
+        "end": "2023-12-10",
+        "color": "gymnasticsCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2023-12-15",
-        "end": "2023-12-15"
+        "end": "2023-12-15",
+        "color": "gymnasticsCol"
     },
     {
         "title": "Table Tennis Wales - Main Arena",
         "start": "2023-12-16",
-        "end": "2023-12-17"
+        "end": "2023-12-17",
+        "color": "racquetSportsCol"
     },
     {
         "title": "Welsh Archery Association - Main Arena",
         "start": "2024-01-07",
-        "end": "2024-01-07"
+        "end": "2024-01-07",
+        "color": "combatSportsCol"
     },
     {
         "title": "Table Tennis Wales - Jubilee Hall",
         "start": "2024-01-06",
-        "end": "2024-01-07"
+        "end": "2024-01-07",
+        "color": "racquetSportsCol"
     },
     {
-        "title": "British Fencing - Main Arena & Jubilee Hall & National Squash Centre",
+        "title":
+            "British Fencing - Main Arena & Jubilee Hall & National Squash Centre",
         "start": "2024-01-08",
-        "end": "2024-01-14"
+        "end": "2024-01-14",
+        "color": "combatSportsCol"
     },
     {
         "title": "Football Association of Wales - Main Arena",
         "start": "2024-01-17",
-        "end": "2024-01-18"
+        "end": "2024-01-18",
+        "color": "ballgamesCol"
     },
     {
         "title": "Rebellion Allstars Dance & Cheer - Main Arena",
         "start": "2024-01-20",
-        "end": "2024-01-20"
+        "end": "2024-01-20",
+        "color": "danceCol"
     },
     {
         "title": "Badminton Wales - Main Arena",
         "start": "2024-01-21",
-        "end": "2024-01-21"
+        "end": "2024-01-21",
+        "color": "racquetSportsCol"
     },
     {
         "title": "Table Tennis Wales - Main Arena & Jubilee Hall",
         "start": "2024-01-27",
-        "end": "2024-01-28"
+        "end": "2024-01-28",
+        "color": "racquetSportsCol"
     },
     {
         "title": "Badminton Wales - Main Arena",
         "start": "2024-02-03",
-        "end": "2024-02-04"
+        "end": "2024-02-04",
+        "color": "racquetSportsCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2024-02-05",
-        "end": "2024-02-05"
+        "end": "2024-02-05",
+        "color": "gymnasticsCol"
     },
     {
         "title": "Welsh Rowing - Main Arena",
         "start": "2024-02-06",
-        "end": "2024-02-06"
+        "end": "2024-02-06",
+        "color": "waterSportsCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2024-02-09",
-        "end": "2024-02-11"
+        "end": "2024-02-11",
+        "color": "gymnasticsCol"
     },
     {
         "title": "Squash Wales - National Squash Centre",
         "start": "2024-02-09",
-        "end": "2024-02-11"
+        "end": "2024-02-11",
+        "color": "racquetSportsCol"
     },
     {
         "title": "Welsh Fencing Association - Jubilee Hall",
         "start": "2024-02-11",
-        "end": "2024-02-11"
+        "end": "2024-02-11",
+        "color": "combatSportsCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2024-02-15",
-        "end": "2024-02-18"
+        "end": "2024-02-18",
+        "color": "gymnasticsCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2024-02-21",
-        "end": "2024-02-21"
+        "end": "2024-02-21",
+        "color": "gymnasticsCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2024-02-24",
-        "end": "2024-02-25"
+        "end": "2024-02-25",
+        "color": "gymnasticsCol"
     },
     {
         "title": "Welsh Fencing Association - Jubilee Hall",
         "start": "2024-02-24",
-        "end": "2024-02-25"
+        "end": "2024-02-25",
+        "color": "combatSportsCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2024-02-29",
-        "end": "2024-02-29"
+        "end": "2024-02-29",
+        "color": "gymnasticsCol"
     },
     {
-        "title": "Welsh Gymnastics - Main Arena",
+        "title": "Welsh gymnastics - Main Arena",
         "start": "2024-03-02",
-        "end": "2024-03-03"
+        "end": "2024-03-03",
+        "color": "gymnasticsCol"
     },
     {
         "title": "Welsh Fencing Association - Jubilee Hall",
         "start": "2024-03-03",
-        "end": "2024-03-03"
+        "end": "2024-03-03",
+        "color": "combatSportsCol"
     },
     {
         "title": "Careers Wales - Main Arena",
         "start": "2024-03-05",
-        "end": "2024-03-05"
+        "end": "2024-03-05",
+        "color": "educationalCol"
     },
     {
         "title": "Badminton Wales - Main Arena",
         "start": "2024-03-07",
-        "end": "2024-03-07"
+        "end": "2024-03-07",
+        "color": "racquetSportsCol"
     },
     {
         "title": "Badminton Wales - Main Arena",
         "start": "2024-03-09",
-        "end": "2024-03-10"
+        "end": "2024-03-10",
+        "color": "racquetSportsCol"
     },
     {
         "title": "Cardiff Dragons Arts & Sports Club - Main Arena",
         "start": "2024-03-16",
-        "end": "2024-03-16"
+        "end": "2024-03-16",
+        "color": "educationalCol"
     },
     {
         "title": "Wales Netball - Main Arena",
         "start": "2024-03-17",
-        "end": "2024-03-17"
+        "end": "2024-03-17",
+        "color": "ballgamesCol"
     },
     {
         "title": "United Dance Organisation - Main Arena",
         "start": "2024-03-20",
-        "end": "2024-03-20"
+        "end": "2024-03-20",
+        "color": "danceCol"
     },
     {
         "title": "Table Tennis Wales - Main Arena",
         "start": "2024-03-23",
-        "end": "2024-03-24"
+        "end": "2024-03-24",
+        "color": "racquetSportsCol"
     }
-]
+]}
