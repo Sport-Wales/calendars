@@ -2,7 +2,15 @@ document.addEventListener('DOMContentLoaded', function() {
   var calendarEl = document.getElementById('calendar');
 
   var calendar = new FullCalendar.Calendar(calendarEl, {
-      initialView: 'dayGridMonth',
+      // initialView: 'dayGridMonth',
+      themeSystem: 'bootstrap5',
+      headerToolbar: {
+        left: 'prev,next today',
+        center: 'title',
+        right: 'dayGridMonth,timeGridWeek,timeGridDay,listMonth'
+      },
+      weekNumbers: true,
+      dayMaxEvents: true, 
       events: [
           {
               title: 'Welsh Gymnastics - Main Arena',
@@ -250,6 +258,11 @@ document.addEventListener('DOMContentLoaded', function() {
             end: '2024-03-24'
           }
       ],
+      // eventSources: [
+      //   {
+      //     url: events.json,
+      //   }
+      // ]
   });
 
   calendar.render();
