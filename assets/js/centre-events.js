@@ -31,6 +31,13 @@ document.addEventListener('DOMContentLoaded', function() {
       },
       weekNumbers: true,
       dayMaxEvents: true, 
+			// events: {
+			// 	url: 'https://raw.githubusercontent.com/Sport-Wales/calendars/main/assets/js/events.json',
+			// 	method: 'GET',
+			// 	failure: function () {
+			// 		alert('There was an error while fetching events');
+			// 	}
+			// }
       events: [
           {
               title: 'Welsh gymnastics - Main Arena',
