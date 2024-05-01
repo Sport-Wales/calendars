@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
         center: 'title',
         right: 'dayGridMonth,timeGridWeek,timeGridDay,listMonth'
       },
-      weekNumbers: true,
+      weekNumbers: false,
       dayMaxEvents: true, 
 			// events: {
 			// 	url: 'https://raw.githubusercontent.com/Sport-Wales/calendars/main/assets/js/events.json',
