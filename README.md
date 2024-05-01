@@ -27,8 +27,11 @@ Becomes this in code:
 
 ## Roadmap
 
-- Welsh translation
-- More event details
+- Welsh translation. Might have to programmatically do this. 
+- More event details, e.g. what tournament/session etc is on.
+- Review CDN usage, maybe move to bundle/npm for future proofing
+- Pulling events from external JSON file, this has proven tricky
+- Performance improvements (run Ligthouse to see score)
 
 ## Deployment
 
