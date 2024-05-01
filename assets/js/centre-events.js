@@ -334,7 +334,63 @@ document.addEventListener('DOMContentLoaded', function() {
             start: '2024-03-23',
             end: '2024-03-24',
             color: racquetSportsCol
-          }
+          },
+          {
+            title: 'Welsh Gymnastics - Main Arena',
+            start: '2024-04-13',
+            end: '2024-04-14',
+            color: gymnasticsCol
+          },
+          {
+            title: 'Quad National Wheelchair Rugby - Main Arena',
+            start: '2024-04-15',
+            end: '2024-04-18',
+            color: disabilitySportWalesCol
+          },
+          {
+            title: 'Welsh Boxing - Main Arena',
+            start: '2024-04-19',
+            end: '2024-04-21',
+            color: combatSportsCol
+          },
+          {
+            title: 'Welsh Gymnastics - Main Arena',
+            start: '2024-04-23',
+            color: gymnasticsCol
+          },
+          {
+            title: 'Badminton Wales - Main Arena',
+            start: '2024-04-24',
+            color: racquetSportsCol
+          },
+          {
+            title: 'Welsh Gymnastics - Main Arena',
+            start: '2024-04-25',
+            color: gymnasticsCol
+          },
+          {
+            title: 'Welsh Boxing - Main Arena',
+            start: '2024-04-26',
+			end: '2024-04-27',
+            color: combatSportsCol
+          },
+          {
+            title: 'Badminton Wales - Main Arena',
+            start: '2024-05-04',
+            color: racquetSportsCol
+          },
+          {
+            title: 'Welsh Gymnastics - Main Arena',
+            start: '2024-05-11',
+			end: '2024-05-12',
+            color: gymnasticsCol
+          },
+          {
+            title: 'Welsh Boxing - Main Arena',
+            start: '2024-05-17',
+			end: '2024-05-19',
+            color: combatSportsCol
+          },
       ],
       eventTextColor: '#000'
   });
