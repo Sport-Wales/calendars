@@ -344,13 +344,13 @@ document.addEventListener('DOMContentLoaded', function() {
           {
             title: 'Quad National Wheelchair Rugby - Main Arena',
             start: '2024-04-15',
-            end: '2024-04-18',
+            end: '2024-04-19',
             color: disabilitySportWalesCol
           },
           {
             title: 'Welsh Boxing - Main Arena',
             start: '2024-04-19',
-            end: '2024-04-21',
+            end: '2024-04-22',
             color: combatSportsCol
           },
           {
@@ -371,7 +371,7 @@ document.addEventListener('DOMContentLoaded', function() {
           {
             title: 'Welsh Boxing - Main Arena',
             start: '2024-04-26',
-			end: '2024-04-27',
+			end: '2024-04-28',
             color: combatSportsCol
           },
           {
@@ -382,13 +382,13 @@ document.addEventListener('DOMContentLoaded', function() {
           {
             title: 'Welsh Gymnastics - Main Arena',
             start: '2024-05-11',
-			end: '2024-05-12',
+			end: '2024-05-13',
             color: gymnasticsCol
           },
           {
             title: 'Welsh Boxing - Main Arena',
             start: '2024-05-17',
-			end: '2024-05-19',
+			end: '2024-05-20',
             color: combatSportsCol
           },
       ],
